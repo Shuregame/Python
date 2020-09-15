@@ -1,4 +1,4 @@
-# Python
+# Сингулярное разложение матрицы
 ```Python
 import numpy as np
 np.set_printoptions(precision=2, suppress=True) #precision=2 - сколько знаков после запятой; suppress - ноль будет нулем
