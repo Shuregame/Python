@@ -39,4 +39,4 @@
 
 ## Теорема
 
-<a href="url"><img src="https://github.com/Shuregame/Python/blob/master/5.png" height="100" width="550" ></a>
+<a href="url"><img src="https://github.com/Shuregame/Python/blob/master/5.png" height="80" width="550" ></a>
