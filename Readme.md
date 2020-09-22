@@ -27,7 +27,7 @@
 
 Потребуем, чтобы исходные признаковые описания можно было восстановить по новым описаниям с помощью некоторого линейного преобразования, определяемого матрицей U = (ujs)n×m:
 
-<a href="url"><img src="https://github.com/Shuregame/Python/blob/master/3.png" height="70" width="300" ></a>
+<a href="url"><img src="https://github.com/Shuregame/Python/blob/master/3.png" height="70" width="400" ></a>
 
 или в векторной форме: xˆ = zU T.
 
