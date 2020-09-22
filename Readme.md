@@ -35,5 +35,8 @@
 совпадать с исходным описанием x, но их отличие на объектах обучающей выборки
 должно быть как можно меньше при выбранной размерности m. Будем искать одновременно и матрицу новых признаковых описаний G, и матрицу линейного преобразования U, при которых суммарная невязка восстановленных описаний минимальна:
 
-<a href="url"><img src="https://github.com/Shuregame/Python/blob/master/4.png" height="100" width="400" ></a>
+<a href="url"><img src="https://github.com/Shuregame/Python/blob/master/4.png" height="90" width="430" ></a>
 
+## Теорема
+
+<a href="url"><img src="https://github.com/Shuregame/Python/blob/master/5.png" height="90" width="430" ></a>
