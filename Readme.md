@@ -19,4 +19,8 @@
 
 Рассмотрим матрицу «объектов–признаков»
 
-<a href="url"><img src="https://github.com/Shuregame/Python/blob/master/1.png" height="100" width="500" ></a>
+<a href="url"><img src="https://github.com/Shuregame/Python/blob/master/1.png" height="100" width="400" ></a>
+
+Обозначим через zi = (g1(xi), . . . , gm(xi)) признаковые описания тех жеобъектов в новом пространстве Z = R m меньшей размерности, m < n:
+
+<a href="url"><img src="https://github.com/Shuregame/Python/blob/master/2.png" height="100" width="400" ></a>
